@@ -6,9 +6,10 @@
  * Return: 0(no error)
  */
 
+FILE *stderr
 int main(void)
 {
-	FILE *stderr
-	fprintf(stderr, "and that piece of art is useful\" - Dora Korpar, 2015-10-19");
-	return (0);
+	fprintf(stderr, "and that piece of art is useful\"
+		       	- Dora Korpar, 2015-10-19");
+	return (1);
 }
