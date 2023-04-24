@@ -17,6 +17,6 @@ int main(void)
 	printf("Size of an int: %d byte(s)", int_size);
 	printf("Size of a long int: %d byte(s)", longInt_size);
 	printf("Size of a long long int: %d byte(s)", longLongInt_size);
-	Printf("Size of a float: %d byte(s)", float_size);
+	printf("Size of a float: %d byte(s)", float_size);
 	return (0);
 	}
