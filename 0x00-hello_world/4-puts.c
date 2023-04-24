@@ -2,8 +2,9 @@
 
 /**
  * main - entry point
+ * input - none
  *
- * Return: 0(no error)
+ * Return val   - 0(no error)
  */
 
 int main(void)
